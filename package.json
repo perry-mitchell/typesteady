@@ -1,0 +1,25 @@
+{
+  "name": "typesteady",
+  "version": "0.0.0",
+  "description": "Keyboard macro toolkit for browser environments",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/perry-mitchell/typesteady.git"
+  },
+  "keywords": [
+    "keyboard",
+    "macro",
+    "typing",
+    "DSL"
+  ],
+  "author": "Perry Mitchell <perry@perrymitchell.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/perry-mitchell/typesteady/issues"
+  },
+  "homepage": "https://github.com/perry-mitchell/typesteady#readme"
+}
